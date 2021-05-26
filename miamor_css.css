@@ -1,0 +1,50 @@
+#titulo {
+width: 95%;
+height:25%;
+margin: 15px;
+border-radius: 10px;
+border: "1px" solid;
+position: static;
+background-image: url(../Mayko/fondo1.jpg);
+
+}
+
+#descripcion {
+width: 95%;
+height: 100%;
+margin: 15px;
+border-radius: 10px;
+border:"1px" solid black;
+background-image: url(../Mayko/fondo1.jpg);
+}
+
+h1 {
+text-align: center;
+padding: 10px;
+font-style: oblique;
+font-size: 100px;
+color: blue;
+}
+
+h2{
+font-style: oblique;
+font-size: 25px;
+color: red;
+}
+
+img{
+text-align: center;
+position: static;
+width: 25%;
+height: 25%;
+border-radius: 10px;
+margin-top: 1%;
+margin-left: 36%;
+margin-right: 43%;
+}
+
+p{
+font-style: oblique;
+font-size: 20px;
+color: white;
+}
